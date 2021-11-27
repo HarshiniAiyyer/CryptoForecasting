@@ -1,4 +1,4 @@
-# FBProphet_For_Crypto
+# CryptoForecasting using Machine and Deep learning
 
 CryptoForecasting using Machine Learning
 
